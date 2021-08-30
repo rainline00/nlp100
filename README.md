@@ -4,3 +4,5 @@
 [chap01.ipynb](./chap01/chap01.ipynb)
 ## chap02
 [chap02.md](./chap02/chap02.md)
+## chap03
+[chap03.md](./chap03/chap03.md)
